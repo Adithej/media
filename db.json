@@ -17,6 +17,68 @@
       "name": "Mrs. Jeannette Hammes"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "id": "73b6",
+      "userId": "c483",
+      "title": "Handmade Rubber Gloves"
+    },
+    {
+      "id": "8a2e",
+      "userId": "c483",
+      "title": "Luxurious Wooden Computer"
+    },
+    {
+      "id": "a4de",
+      "userId": "c483",
+      "title": "Electronic Concrete Bike"
+    },
+    {
+      "id": "1580",
+      "userId": "1",
+      "title": "Awesome Fresh Bike"
+    },
+    {
+      "id": "86f4",
+      "userId": "7c80",
+      "title": "Elegant Bronze Bacon"
+    },
+    {
+      "id": "7fb3",
+      "userId": "d2e7",
+      "title": "Ergonomic Fresh Pants"
+    }
+  ],
+  "photos": [
+    {
+      "id": "6d1c",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=45553"
+    },
+    {
+      "id": "3bfb",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12367"
+    },
+    {
+      "id": "d6a3",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=15172"
+    },
+    {
+      "id": "1bd8",
+      "albumId": "8a2e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1630"
+    },
+    {
+      "id": "28ff",
+      "albumId": "7fb3",
+      "url": "https://loremflickr.com/150/150/abstract?lock=56097"
+    }
+  ]
 }
